@@ -11,6 +11,10 @@ Getting Started
      Create a copy of the config.json.template file and rename it to config.json.
      Edit the config.json file and set the following values:
          api_key: Your API key from the OpenWebUI dashboard.
+         1.![image](https://github.com/user-attachments/assets/ce8657b4-e419-4d0d-b29e-8c531bcf7744)
+         2.![image](https://github.com/user-attachments/assets/c78b4eeb-8637-4321-a9eb-ab3912eb927b)
+         3. within the config paste the api key in the apikey line
+
          
      Run the OpenWebUI application.
      
@@ -19,6 +23,7 @@ Configuration Options
 
      API Key: The API key for the OpenWebUI API.
      Other options: You can customize the configuration further based on your needs.
+     
      
 
 Troubleshooting 
