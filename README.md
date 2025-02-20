@@ -15,16 +15,13 @@ Getting Started
 2. ![alt text](https://github.com/daredoole/Mindmatch-OpenWebuiCoPiolt-Config/blob/main/Apikey.png)
 
          3. within the config paste the api key in the apikey line
-
-         
-     Run the OpenWebUI application.
      
 
 Configuration Options 
 
      API Key: The API key for the OpenWebUI API.
      Other options: You can customize the configuration further based on your needs.
-     
+https://docs.continue.dev/customize/overview
      
 
 Troubleshooting 
