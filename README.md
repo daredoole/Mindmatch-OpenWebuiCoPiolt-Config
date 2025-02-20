@@ -14,7 +14,9 @@ Getting Started
 1.![image](https://github.com/user-attachments/assets/c78b4eeb-8637-4321-a9eb-ab3912eb927b)
 2. ![alt text](https://github.com/daredoole/Mindmatch-OpenWebuiCoPiolt-Config/blob/main/Apikey.png)
 
-         3. within the config paste the api key in the apikey line
+     In the config.json file, locate the api_key field.
+     Replace the placeholder value in the api_key field with your actual API key.
+     
      
 
 Configuration Options 
@@ -27,20 +29,9 @@ https://docs.continue.dev/customize/overview
 Troubleshooting 
 
      If you encounter any issues, refer to the Troubleshooting section in the README file or contact the OpenWebUI community for help.
-     
+https://docs.openwebui.com/
 
-Additional Resources 
 
-     OpenWebUI GitHub repository 
-     OpenWebUI documentation 
-     
-
-API Key Setup 
-
-     In the config.json file, locate the api_key field.
-     Obtain an API key from the OpenWebUI dashboard.
-     Replace the placeholder value in the api_key field with your actual API key.
-     
 
 Disclaimer 
 
