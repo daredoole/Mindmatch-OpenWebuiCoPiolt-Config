@@ -11,8 +11,9 @@ Getting Started
      Create a copy of the config.json.template file and rename it to config.json.
      Edit the config.json file and set the following values:
          api_key: Your API key from the OpenWebUI dashboard.
-1. ![alt text](https://github.com/daredoole/Mindmatch-OpenWebuiCoPiolt-Config/blob/main/Apikey.png)
-         2.![image](https://github.com/user-attachments/assets/c78b4eeb-8637-4321-a9eb-ab3912eb927b)
+1.![image](https://github.com/user-attachments/assets/c78b4eeb-8637-4321-a9eb-ab3912eb927b)
+2. ![alt text](https://github.com/daredoole/Mindmatch-OpenWebuiCoPiolt-Config/blob/main/Apikey.png)
+
          3. within the config paste the api key in the apikey line
 
          
